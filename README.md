@@ -1,7 +1,7 @@
 # Pen-On-Paper Ciphers
 
 ## What is this?
-This is a list of Pen-On-Paper ciphers that are part of [my reddit contest](https://www.reddit.com/r/crypto/comments/9k4cq8/pen_on_paper_cipher_contest/).
+This is a list of Pen-On-Paper ciphers that are part of [this reddit contest](https://www.reddit.com/r/crypto/comments/9k4cq8/pen_on_paper_cipher_contest/).
 
 ## Status of current ciphers
 
